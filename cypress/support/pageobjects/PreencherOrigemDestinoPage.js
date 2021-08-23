@@ -57,7 +57,6 @@ class PreencherText {
                     cy.log(txt3)
 
                     expect(txt3).to.eq(txt + txt2)
-
                 })
             })
         })
